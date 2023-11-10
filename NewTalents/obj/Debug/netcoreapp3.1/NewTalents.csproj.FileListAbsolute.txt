@@ -1,0 +1,13 @@
+C:\Workspace\dio\Projetos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.exe
+C:\Workspace\dio\Projetos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.deps.json
+C:\Workspace\dio\Projetos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.json
+C:\Workspace\dio\Projetos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.dev.json
+C:\Workspace\dio\Projetos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.dll
+C:\Workspace\dio\Projetos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.pdb
+C:\Workspace\dio\Projetos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\dio\Projetos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfoInputs.cache
+C:\Workspace\dio\Projetos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfo.cs
+C:\Workspace\dio\Projetos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.csproj.CoreCompileInputs.cache
+C:\Workspace\dio\Projetos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.dll
+C:\Workspace\dio\Projetos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.pdb
+C:\Workspace\dio\Projetos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.genruntimeconfig.cache
